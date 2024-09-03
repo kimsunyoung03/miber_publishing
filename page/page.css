@@ -267,7 +267,7 @@
     #Programs03 .programs03_content li .txt_area{padding:16px 0}
     #Programs03 .programs03_content .tit{font-size:20px}
     #Programs03 .programs03_content .sub_tit{font-size:16px;line-height:24px;}
-    #Programs03 .programs03_content li .img_area{margin-bottom:32px;}
+    #Programs03 .programs03_content li .img_area{margin-bottom:32px;margin-top:0}
     #Programs03 .programs03_box{margin:0;padding:16px}
     #Programs03 .programs03_box .box_tit{font-size:16px;margin-bottom:8px}
     #Programs03 .programs03_box ul{display:flex;flex-direction:column;justify-content:flex-start;gap:0}
