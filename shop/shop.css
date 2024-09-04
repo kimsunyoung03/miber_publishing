@@ -328,7 +328,7 @@
     .delivery p{font-size:12px}
     .cart_btn{display:flex;justify-content:center;align-items:center;height:46px;line-height:46px;border-color: #E0E0E2;}
     .mobile_fiexd .type01 .btn_area button{width:50%;}
-    .mobile_fiexd .btn_area button{font-size:16px;}
+    .mobile_fiexd .btn_area button{font-size:16px;border:1px solid #E0E0E2}
     .order03{width:100%;padding:32px 16px 0}
     .order03 .filter_slect{width:100%;}
     .order03 .filter_slect .trigger{height:46px;line-height:46px;}
